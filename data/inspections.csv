@@ -1,0 +1,24 @@
+date,building,area,item,score
+2026-03-02,Building A,Restrooms,Floors,5
+2026-03-02,Building A,Restrooms,Fixtures,4
+2026-03-02,Building A,Restrooms,Supplies stocked,3
+2026-03-02,Building A,Restrooms,Trash emptied,5
+2026-03-02,Building A,Lobby,Floors,5
+2026-03-02,Building A,Lobby,Glass and doors,4
+2026-03-02,Building A,Lobby,Trash emptied,5
+2026-03-02,Building A,Offices Floor 1,Floors,4
+2026-03-02,Building A,Offices Floor 1,Desks and surfaces,4
+2026-03-02,Building A,Offices Floor 1,Trash emptied,5
+2026-03-02,Building B,Restrooms,Floors,3
+2026-03-02,Building B,Restrooms,Fixtures,2
+2026-03-02,Building B,Restrooms,Supplies stocked,2
+2026-03-02,Building B,Restrooms,Trash emptied,4
+2026-03-02,Building B,Warehouse Office,Floors,4
+2026-03-02,Building B,Warehouse Office,Desks and surfaces,3
+2026-03-02,Building B,Warehouse Office,Trash emptied,5
+2026-03-09,Building A,Restrooms,Floors,5
+2026-03-09,Building A,Restrooms,Fixtures,5
+2026-03-09,Building A,Restrooms,Supplies stocked,4
+2026-03-09,Building B,Restrooms,Floors,4
+2026-03-09,Building B,Restrooms,Fixtures,3
+2026-03-09,Building B,Restrooms,Supplies stocked,3
