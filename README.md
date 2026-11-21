@@ -1,5 +1,7 @@
 # cleaning-quality-score
 
+[![CI](https://github.com/yassine2med/cleaning-quality-score/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/cleaning-quality-score/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Turns cleaning inspection checklists into percentage scores, grades and a pass or fail per building or area.
 
 ![Screenshot](docs/screenshot.png)
